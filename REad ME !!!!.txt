@@ -1,0 +1,19 @@
+						Facebook Bot
+
+
+Created a facebook automated bot to control user actions automatically.
+
+The main purpose of this bot is to send random generated messages including the same profile name for business 
+purposes to people in groups or individuals.
+
+Bot logs into facebook and store the session for next time use.
+
+It has two options.
+
+	1. end messages to group members. and send friend request also. Dynamic choice to insert group name, 
+	group limit, people limit in group members section and group location.
+
+	2. Send message to Individual person and send friend requests also. Dynamic choice to insert person 
+	name, and limit of people to send messages and friend requests.
+
+Tools: Python and selenium
